@@ -223,16 +223,6 @@
           "action": "link:http://app.ss-iptv.com/"
       },
       {
-		"title":"Кинозал HD",
-         "image": "https://nnmtv.github.io/msx/img/kino_hd.jpg",
-         "action": "menu:https://nnmtv.github.io/video/kinozal_hd.json"
-      },
-      {
-		"title":"Концерты, шоу",
-         "image": "https://nnmtv.github.io/msx/img/clip.jpg",
-          "action": "menu:https://nnmtv.github.io/video/koncert.json"
-      },
-      {
 		"title":"WEB MSX HTTP",
          "image": "https://nnmtv.github.io/msx/img/msx.jpg",
          "action": "link:http://msx.benzac.de?leave=1"
