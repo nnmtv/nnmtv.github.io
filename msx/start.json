@@ -75,7 +75,7 @@
       {
 		"title":"ТВ каналы",
          "image": "https://nnmtv.github.io/msx/img/iptv.png",
-         "action": "menu:https://nnmtv.github.io/msx/iptv/tv_nnm.json"
+         "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
       },
       {
 		"title":"Akter Black",
