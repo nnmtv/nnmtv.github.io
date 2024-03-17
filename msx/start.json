@@ -2,14 +2,14 @@
   "name": "NoName Portal",
     "type": "list",
    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-  "background": "http://msx.nnmtv.fun/msx/img/bg.png", 
+  "background": "https://nnmtv.github.io/msx/img/bg.png", 
   "headline": "NoName Media Station X App Store",
   "version": "1.0.0",
-  "parameter": "content: http://msx.nnmtv.fun/msx/start.json",
+  "parameter": "content: https://nnmtv.github.io/msx/start.json",
   "action": "[settings:validate_links:0|home]", 
-  "dictionary": "http://msx.nnmtv.fun/msx/lang/ru.json",
+  "dictionary": "https://nnmtv.github.io/msx/lang/ru.json",
     "launcher": {
-        "image": "http://msx.nnmtv.fun/msx/img/noname.png"},
+        "image": "https://nnmtv.github.io/msx/img/noname.png"},
    "template": {
         "type": "separate",
       "layout": "0,0,2,3",
@@ -19,127 +19,127 @@
    "items": [
       {
 		"title":"Lampa",
-         "image": "http://msx.nnmtv.fun/msx/img/lampa.jpg",
+         "image": "https://nnmtv.github.io/msx/img/lampa.jpg",
           "action": "link:http://lampa.mx/"
       },
       {
 		"title":"Atodo",
-         "image": "http://msx.nnmtv.fun/msx/img/atodo.png",
+         "image": "https://nnmtv.github.io/msx/img/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
       },
       {
 		"title":"Atodo web",
-         "image": "http://msx.nnmtv.fun/msx/img/atodo.png",
+         "image": "https://nnmtv.github.io/msx/img/atodo.png",
           "action": "link:http://msx.atodo.fun/"
       },
       {
 		"title":"VoKino",
-            "image": "http://msx.nnmtv.fun/msx/img/vokino.jpg",
+            "image": "https://nnmtv.github.io/msx/img/vokino.jpg",
             "action": "link:http://web.vokino.tv/"
       },
       {
 		"title":"Deeplex",
-            "image": "http://msx.nnmtv.fun/msx/img/deep.png",
+            "image": "https://nnmtv.github.io/msx/img/deep.png",
             "action": "link:http://smart.deeplex.cc"
       },
       {
 		"title":"MOOVIES",
-         "image": "http://msx.nnmtv.fun/msx/img/imovies.png",
+         "image": "https://nnmtv.github.io/msx/img/imovies.png",
          "action": "menu:request:interaction:init@http://moovies.fun/index.html"
       },
       {
 		"title":"ForkPlayer",
-         "image": "http://msx.nnmtv.fun/msx/img/forknew.png",
+         "image": "https://nnmtv.github.io/msx/img/forknew.png",
          "action": "link:http://browser.appfxml.com/"
       },
       {
 		"title":"Ott-play",
-         "image": "http://msx.nnmtv.fun/msx/img/ottplay.jpg",
+         "image": "https://nnmtv.github.io/msx/img/ottplay.jpg",
          "action": "link:http://ott-play.com/f/"
       },
       {
 		"title":"Ott-play FOSS",
-         "image": "http://msx.nnmtv.fun/msx/img/ott_foss.png",
+         "image": "https://nnmtv.github.io/msx/img/ott_foss.png",
          "action": "link:http://ottp.eu.org/f/"
       },
       {
 		"title":"DRM-Play",
-         "image": "http://msx.nnmtv.fun/msx/img/drm_new.png",
+         "image": "https://nnmtv.github.io/msx/img/drm_new.png",
          "action":"execute:info:extended:http://drm-play.com/msx/data.php"
       },
       {
 		"title":"OTTplayer",
-         "image": "http://msx.nnmtv.fun/msx/img/ottplayer.png",
+         "image": "https://nnmtv.github.io/msx/img/ottplayer.png",
          "action": "link:http://widget.ottplayer.tv"
       },
       {
 		"title":"ТВ каналы",
-         "image": "http://msx.nnmtv.fun/msx/img/iptv.png",
-         "action": "menu:http://msx.nnmtv.fun/msx/iptv/tv_nnm.json"
+         "image": "https://nnmtv.github.io/msx/img/iptv.png",
+         "action": "menu:https://nnmtv.github.io/msx/iptv/tv_nnm.json"
       },
       {
 		"title":"Akter Black",
-         "image": "http://msx.nnmtv.fun/msx/img/akterblack.jpg",
+         "image": "https://nnmtv.github.io/msx/img/akterblack.jpg",
          "action": "link:http://abmsx.tech/"
       },
       {
 		"title":"Prisma",
-         "image": "http://msx.nnmtv.fun/msx/img/prism.png",
+         "image": "https://nnmtv.github.io/msx/img/prism.png",
          "action": "link:https://prisma.ws/"
       },
       {
 		"title":"Movielab",
-         "image": "http://msx.nnmtv.fun/msx/img/movielab.png",
+         "image": "https://nnmtv.github.io/msx/img/movielab.png",
           "action": "menu:https://movielab.fun/msx/menu.json"
       },
       {
 		"title":"KinoBoom",
-         "image": "http://msx.nnmtv.fun/msx/img/kb_msx_logo.png",
+         "image": "https://nnmtv.github.io/msx/img/kb_msx_logo.png",
          "action": "content:http://kb-team.club/msx/enter.php?welcome"
       },
       {
 		"title":"XSmart",
-         "image": "http://msx.nnmtv.fun/msx/img/xsmart.png",
+         "image": "https://nnmtv.github.io/msx/img/xsmart.png",
          "action": "link:http://app.xsmart.tv"
       },
       {
 		"title":"Impire Boom",
-            "image": "http://msx.nnmtv.fun/msx/img/imboom.png",
+            "image": "https://nnmtv.github.io/msx/img/imboom.png",
             "action": "link:http://web.imboom.ru/"
       },
       {
 		"title":"ICVA (Лампа ТВ)",
-            "image": "http://msx.nnmtv.fun/msx/img/icva.png",
+            "image": "https://nnmtv.github.io/msx/img/icva.png",
             "action": "link:http://icva.mx/"
       },
       {
 		"title":"HDGO",
-         "image": "http://msx.nnmtv.fun/msx/img/hdgo.png",
+         "image": "https://nnmtv.github.io/msx/img/hdgo.png",
           "action": "link:http://hdgo.me"
       },
       {
 		"title":"Dstore",
-         "image": "http://msx.nnmtv.fun/msx/img/dstore.png",
+         "image": "https://nnmtv.github.io/msx/img/dstore.png",
          "action": "content:http://msx.lh1.in/msx/content.json"
       },
       {
 		"title":"Кинопаб",
-         "image": "http://msx.nnmtv.fun/msx/img/kp.png",
+         "image": "https://nnmtv.github.io/msx/img/kp.png",
          "action": "link:http://kpms.cc/"
       },
       {
 		"title":"Youtube",
-         "image": "http://msx.nnmtv.fun/msx/img/youtube.jpg",
+         "image": "https://nnmtv.github.io/msx/img/youtube.jpg",
          "action": "link:http://www.youtube.com/tv#/"
       },
       {
 		"title":"Youtube Kids",
-         "image": "http://msx.nnmtv.fun/msx/img/ytkids.jpg",
+         "image": "https://nnmtv.github.io/msx/img/ytkids.jpg",
          "action": "link:https://www.youtube.com/tv/kids"
       },
       {
 		"title":"GetsTV",
-         "image": "http://msx.nnmtv.fun/msx/img/getstv.jpg",
+         "image": "https://nnmtv.github.io/msx/img/getstv.jpg",
          "action": "link:http://getstv.ru/app/webos/index.html"
       },
       {
@@ -159,42 +159,42 @@
       },
       {
 		"title":"Pxel TV",
-            "image": "http://msx.nnmtv.fun/msx/img/pxel.png",
+            "image": "https://nnmtv.github.io/msx/img/pxel.png",
             "action": "link:http://app.pxel.tv/"
       },
       {
 		"title":"Яндекс видео",
-            "image": "http://msx.nnmtv.fun/msx/img/yandex.jpg",
+            "image": "https://nnmtv.github.io/msx/img/yandex.jpg",
             "action": "link:http://yandex.ru/video/tvapp/"
       },
       {
 		"title":"OVP",
-         "image": "http://msx.nnmtv.fun/msx/img/ovp.png",
+         "image": "https://nnmtv.github.io/msx/img/ovp.png",
          "action": "link:http://tsnakeman.net.ua/lg/"
       },
       {
 		"title":"Qwedl Movies",
-         "image": "http://msx.nnmtv.fun/msx/img/qwedl.png",
+         "image": "https://nnmtv.github.io/msx/img/qwedl.png",
           "action": "link:https://movies.qwedl.com/"
       },
       {
 		"title":"Webvideocaster",
-         "image": "http://msx.nnmtv.fun/msx/img/webvideocaster.png",
+         "image": "https://nnmtv.github.io/msx/img/webvideocaster.png",
           "action": "link:http://vewd.webvideocaster.com/"
       },
       {
 		"title":"Rutube",
-         "image": "http://msx.nnmtv.fun/msx/img/rutube.png",
+         "image": "https://nnmtv.github.io/msx/img/rutube.png",
           "action": "link:https://rutube.ru/tv-release/rutube.server-22.0.0/webos/"
       },
       {
 		"title":"RE! Music",
-         "image": "http://msx.nnmtv.fun/msx/img/remusic.png",
+         "image": "https://nnmtv.github.io/msx/img/remusic.png",
          "action": "link:http://tvsam-02.ext.dc3.dailymotion.com/tvapps/dm_editor/app/index.php?id=098158d48c9e6edd&player=html5#fxm"
       },
       {
 		"title":"Смотрим",
-         "image": "http://msx.nnmtv.fun/msx/img/smotrim.png",
+         "image": "https://nnmtv.github.io/msx/img/smotrim.png",
           "action": "link:https://tv.smotrim.ru/"
       },
       {
@@ -204,44 +204,44 @@
       },
       {
 		"title":"myTuner",
-         "image": "http://msx.nnmtv.fun/msx/img/mytuner.png",
+         "image": "https://nnmtv.github.io/msx/img/mytuner.png",
          "action": "link:https://devices.mytuner.mobi/"
       },
       {
 		"title":"RadioPlayer",
-         "image": "http://msx.nnmtv.fun/msx/img/radioplayer.png",
+         "image": "https://nnmtv.github.io/msx/img/radioplayer.png",
          "action": "link:http://tv.radioplayer.de/HiSense/"
       },
       {
 		"title":"Twitch",
-         "image": "http://msx.nnmtv.fun/msx/img/twitch.jpg",
+         "image": "https://nnmtv.github.io/msx/img/twitch.jpg",
          "action": "link:http://webos.tv.twitch.tv/"
       },
       {
 		"title":"SS-IPTV",
-         "image": "http://msx.nnmtv.fun/msx/img/ssiptv.jpg",
+         "image": "https://nnmtv.github.io/msx/img/ssiptv.jpg",
           "action": "link:http://app.ss-iptv.com/"
       },
       {
 		"title":"Кинозал HD",
-         "image": "http://msx.nnmtv.fun/msx/img/kino_hd.jpg",
-         "action": "menu:http://msx.nnmtv.fun/video/kinozal_hd.json"
+         "image": "https://nnmtv.github.io/msx/img/kino_hd.jpg",
+         "action": "menu:https://nnmtv.github.io/video/kinozal_hd.json"
       },
       {
 		"title":"Концерты, шоу",
-         "image": "http://msx.nnmtv.fun/msx/img/clip.jpg",
-          "action": "menu:http://msx.nnmtv.fun/video/koncert.json"
+         "image": "https://nnmtv.github.io/msx/img/clip.jpg",
+          "action": "menu:https://nnmtv.github.io/video/koncert.json"
       },
       {
 		"title":"WEB MSX HTTP",
-         "image": "http://msx.nnmtv.fun/msx/img/msx.jpg",
+         "image": "https://nnmtv.github.io/msx/img/msx.jpg",
          "action": "link:http://msx.benzac.de?leave=1"
       },
       {
 		"title":"Информация",
-            "image": "http://msx.nnmtv.fun/msx/img/inf.png",
-            "background": "http://msx.nnmtv.fun/msx/img/nnm_inf.jpg",
-            "action": "audio: http://msx.nnmtv.fun/msx/noname.mp3"
+            "image": "https://nnmtv.github.io/msx/img/inf.png",
+            "background": "https://nnmtv.github.io/msx/img/nnm_inf.jpg",
+            "action": "audio: https://nnmtv.github.io/msx/noname.mp3"
       }
    ]
 }
