@@ -1,0 +1,475 @@
+#EXTM3U
+#EXTINF:-1 group-title="Россия" tvg-id="983" tvg-logo="http://epg.one/img/983.png",Первый канал HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=262ff182446f49d4f7ffbdf0a85d90876713d376&hlc=1
+
+
+#EXTINF:-1 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/1767.png",ТНТ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&hlc=1
+
+#EXTINF:-1 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/2765.png",Пятница! HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&hlc=1
+#EXTINF:-1 group-title="Общие" tvg-id="304" tvg-logo="http://epg.one/img/304.png",Домашний
+http://yyzsqpdh.deploy.cx/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&hlc=1
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Развлекательные" tvg-id="1649" tvg-logo="http://epg.one/img/1649.png",ТНТ4 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&hlc=1
+#EXTINF:-1 group-title="Развлекательные" tvg-id="2288" tvg-logo="http://epg.one/img/2288.png",Суббота! HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&hlc=1
+#EXTINF:-1 group-title="Развлекательные" tvg-id="1322" tvg-logo="http://epg.one/img/1322.png",СТС Love
+http://yyzsqpdh.deploy.cx/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&hlc=1
+#EXTINF:-1 group-title="Развлекательные" tvg-id="323" tvg-logo="http://epg.one/img/323.png",2x2
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801d&hlc=1
+#EXTINF:-1 group-title="Развлекательные" tvg-id="783" tvg-logo="http://epg.one/img/783.png",Ностальгия
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&hlc=1
+
+
+
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="" tvg-logo="http://epg.one/img/1037.png",Кино ТВ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="566" tvg-logo="http://epg.one/img/566.png",Кинопремьера HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img/542.png",Кинохит HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="644" tvg-logo="http://epg.one/img/644.png",Киномикс HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1584" tvg-logo="http://epg.one/img/1584.png",Мужское Кино HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="987" tvg-logo="http://epg.one/img/987.png",Киносемья HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="821" tvg-logo="http://epg.one/img/821.png",Кинокомедия HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="462" tvg-logo="http://epg.one/img/462.png",Киносвидание HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img/485.png",Наше Новое Кино HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="799" tvg-logo="http://epg.one/img/799.png",Киносерия HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2493" tvg-logo="http://epg.one/img/2493.png",Киноужас HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2309" tvg-logo="http://epg.one/img/2309.png",Шокирующее HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2857" tvg-logo="http://epg.one/img/2857.png",Страшное HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="518" tvg-logo="http://epg.one/img/518.png",НСТ
+http://yyzsqpdh.deploy.cx/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1588" tvg-logo="http://epg.one/img/1588.png",Остросюжетное HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2732" tvg-logo="http://epg.one/img/2732.png",Премиальное HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2832" tvg-logo="http://epg.one/img/2832.png",Блокбастер HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2833" tvg-logo="http://epg.one/img/2833.png",Хит HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png",Viju+ Premiere HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png",Viju+ Megahit HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png",Viju+ Comedy HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png",Viju+ Serial HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="127" tvg-logo="http://epg.one/img/127.png",Viju TV1000 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="125" tvg-logo="http://epg.one/img/125.png",Viju TV1000 Action HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="267" tvg-logo="http://epg.one/img/267.png",Viju TV1000 Русское HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2834" tvg-logo="http://epg.one/img/2834.png",Кинопоказ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=682b445d50584498d63230dd10d05c793779ad9d&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2831" tvg-logo="http://epg.one/img/2831.png",Наш Кинопоказ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2019" tvg-logo="http://epg.one/img/2019.png",Душевное кино HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2835" tvg-logo="http://epg.one/img/2835.png",Наше Мужское HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="4466" tvg-logo="http://epg.one/img/4466.png",KinoJam 1 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2743" tvg-logo="http://epg.one/img/2743.png",Ultra HD Cinema 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2804" tvg-logo="http://epg.one/img/2804.png",Кино UHD 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png",Дом Кино Премиум HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="834" tvg-logo="http://epg.one/img/834.png",Дом Кино
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2829" tvg-logo="http://epg.one/img/2829.png",Про Любовь HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2836" tvg-logo="http://epg.one/img/2836.png",Камеди HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="138" tvg-logo="http://epg.one/img/138.png",Комедийное HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2772" tvg-logo="http://epg.one/img/2772.png",Романтичное HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="401" tvg-logo="http://epg.one/img/401.png",Русский роман HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=76a1b5c9092b40d06083a41aa7ec493e2d286823&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png",Русский детектив
+http://yyzsqpdh.deploy.cx/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="994" tvg-logo="http://epg.one/img/994.png",Русский бестселлер
+http://yyzsqpdh.deploy.cx/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1620" tvg-logo="http://epg.one/img/1620.png",Русская Комедия
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="53" tvg-logo="http://epg.one/img/53.png",Русский Иллюзион HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2403" tvg-logo="http://epg.one/img/2403.png",Иллюзион+ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="311" tvg-logo="http://epg.one/img/311.png",.red
+http://yyzsqpdh.deploy.cx/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="935" tvg-logo="http://epg.one/img/935.png",.black
+http://yyzsqpdh.deploy.cx/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="516" tvg-logo="http://epg.one/img/516.png",.sci-fi
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1371" tvg-logo="http://epg.one/img/1371.png",Amedia 1 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2492" tvg-logo="http://epg.one/img/2492.png",Amedia 2 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img/2007.png",Amedia Hit HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png",Amedia Premium HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1031" tvg-logo="http://epg.one/img/1031.png",Fox HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="615" tvg-logo="http://epg.one/img/615.png" tvg-rec="0",Fox Life HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="934" tvg-logo="http://epg.one/img/934.png",Hollywood HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img/3357.png",Мосфильм. Золотая коллекция HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2509" tvg-logo="http://epg.one/img/2509.png" tvg-rec="3",Наше любимое HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="477" tvg-logo="http://epg.one/img/477.png",Любимое Кино
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="12" tvg-logo="http://epg.one/img/12.png",Родное Кино
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img/352.png",Еврокино
+http://yyzsqpdh.deploy.cx/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="309" tvg-logo="http://epg.one/img/309.png",TV XXI
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2768" tvg-logo="http://epg.one/img/2768.png",Арсенал HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png",Победа HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b0328b972df3ae63a836aba2d93aae10ebe08978&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2549" tvg-logo="http://epg.one/img/2549.png",Cinema
+http://yyzsqpdh.deploy.cx/ace/getstream?id=3814b39d024f50efefb0a30cccf33bac16842328&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png",НТВ Хит HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png",НТВ Сериал HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2359" tvg-logo="http://epg.one/img/2359.png",FAN HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="2174" tvg-logo="http://epg.one/img/2174.png",Дорама HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="1395" tvg-logo="http://epg.one/img/1395.png",Bollywood HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&hlc=1
+#EXTINF:-1 group-title="Кино" tvg-id="798" tvg-logo="http://epg.one/img/798.png",Индийское Кино
+
+http://yyzsqpdh.deploy.cx/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4682" tvg-logo="http://epg.one/img/4682.png",CineMan
+http://yyzsqpdh.deploy.cx/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4683" tvg-logo="http://epg.one/img/4683.png",CineMan Top
+http://yyzsqpdh.deploy.cx/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4691" tvg-logo="http://epg.one/img/4691.png",CineMan РуКино
+http://yyzsqpdh.deploy.cx/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4736" tvg-logo="http://epg.one/img/4736.png",BCU Кинозал Premiere 1 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4737" tvg-logo="http://epg.one/img/4737.png",BCU Кинозал Premiere 2 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png",BCU Кинозал Premiere 3 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4760" tvg-logo="http://epg.one/img/4760.png",BCU Premiere HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4748" tvg-logo="http://epg.one/img/4748.png",BCU Action HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4749" tvg-logo="http://epg.one/img/4749.png",BCU Catastrophe HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4750" tvg-logo="http://epg.one/img/4750.png",BCU Cinema HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4751" tvg-logo="http://epg.one/img/4751.png",BCU Cinema+ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4753" tvg-logo="http://epg.one/img/4753.png",BCU Fantastic HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4754" tvg-logo="http://epg.one/img/4754.png",BCU FilMystic HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4755" tvg-logo="http://epg.one/img/4755.png",BCU History HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4752" tvg-logo="http://epg.one/img/4752.png",BCU Comedy HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png",BCU Romantic HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4758" tvg-logo="http://epg.one/img/4758.png",BCU Kinorating HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4769" tvg-logo="http://epg.one/img/4769.png",BCU Criminal HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4759" tvg-logo="http://epg.one/img/4759.png",BCU Marvel HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4765" tvg-logo="http://epg.one/img/4765.png",BCU Stars HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="6131" tvg-logo="http://epg.one/img/6131.png",BCU Reality HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="6175" tvg-logo="http://epg.one/img/6175.png",BCU Survival HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="6176" tvg-logo="http://epg.one/img/6176.png",BCU Cosmo HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="6198" tvg-logo="http://epg.one/img/6198.png",BCU TruMotion HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4766" tvg-logo="http://epg.one/img/4766.png",BCU Ultra 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="5561" tvg-logo="http://epg.one/img/5561.png",BCU Premiere Ultra 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4763" tvg-logo="http://epg.one/img/4763.png",BCU VHS HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4747" tvg-logo="http://epg.one/img/4747.png",BCU СССР HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4762" tvg-logo="http://epg.one/img/4762.png",BCU Russian HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4767" tvg-logo="http://epg.one/img/4767.png",BCU RuSerial HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png",BCU Сваты HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="4756" tvg-logo="http://epg.one/img/4756.png",BCU Kids HD
+http://yyzsqpdh.deploy.cx/ace/getstream?infohash=535b288408b7c671bb1d5c292dd64beadf556ab9&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="bcu-kids-plus",BCU Kids+ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?infohash=c37f4c259b1a38e5cef0db764a0531dd2c706e60&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="bcu-multserial",BCU Мультсериал
+http://yyzsqpdh.deploy.cx/ace/getstream?infohash=821cfc152e1130591fe8255c5d3535b6aa89cd53&hlc=1
+#EXTINF:-1 group-title="Киноканалы BCU" tvg-id="bcu-kids-4k",BCU Kids 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?infohash=876afe0bccfedbd7be72caf2eea1dc21b0118ca3&hlc=1
+
+#EXTINF:-1 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png",Матч ТВ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2003" tvg-logo="http://epg.one/img/2003.png",Матч! Арена HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2054" tvg-logo="http://epg.one/img/2054.png",Матч! Боец HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2050" tvg-logo="http://epg.one/img/2050.png",Матч! Игра HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.one/img/2042.png",Матч! Страна HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2043" tvg-logo="http://epg.one/img/2043.png",Матч! Планета
+http://yyzsqpdh.deploy.cx/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png",Матч! Премьер HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png",Матч! Футбол 1 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png",Матч! Футбол 2 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png",Матч! Футбол 3 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.one/img/2782.png",Футбол HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="4679" tvg-logo="http://epg.one/img/4679.png",Футбольный HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2285" tvg-logo="http://epg.one/img/2285.png" tvg-rec="0",Бокс ТВ HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="3792" tvg-logo="http://epg.one/img/3792.png",FightBox HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="4629" tvg-logo="http://epg.one/img/4629.png",Мир Баскетбола
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="3117" tvg-logo="http://epg.one/img/3117.png",Super Tennis HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="4678" tvg-logo="http://epg.one/img/4678.png",Спортивный HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="4605" tvg-logo="http://epg.one/img/4605.png",Хоккейный HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="2326" tvg-logo="http://epg.one/img/2326.png",Eurosport 1 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png",Eurosport 2 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="6806" tvg-logo="http://epg.one/img/6806.png",Setanta Sports 1 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="6805" tvg-logo="http://epg.one/img/6805.png",Setanta Sports 2 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&hlc=1
+#EXTINF:-1 group-title="Спорт" tvg-id="",Megogo Футбол 2 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f3f5728944bb91287a41b878c5ce04f608459109&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="4570" tvg-logo="http://epg.one/img/4570.png",Sky Sports Football
+http://yyzsqpdh.deploy.cx/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&hlc=1
+
+#EXTINF:-1 group-title="Музыка" tvg-id="4037" tvg-logo="http://epg.one/img/4037.png",1HD Music Television
+http://yyzsqpdh.deploy.cx/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="2022" tvg-logo="http://epg.one/img/2022.png",Bridge Deluxe HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="591" tvg-logo="http://epg.one/img/591.png",Bridge Русский Хит
+http://yyzsqpdh.deploy.cx/ace/getstream?id=eb3add8d104fa237e14343f3236a932595023c9a&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="897" tvg-logo="http://epg.one/img/897.png",МУЗ-ТВ
+http://yyzsqpdh.deploy.cx/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="382" tvg-logo="http://epg.one/img/382.png",MTV Live HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5a08cc63a0aef61f2f659efae6f7b9c2b584c0b2&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="2235" tvg-logo="http://epg.one/img/2235.png",MTV 90s
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="681" tvg-logo="http://epg.one/img/681.png",Europa Plus TV
+http://yyzsqpdh.deploy.cx/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="165" tvg-logo="http://epg.one/img/165.png",Жара HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="715" tvg-logo="http://epg.one/img/715.png",Музыка Первого
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="2409" tvg-logo="http://epg.one/img/2409.png",Music Box Russia HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="2278" tvg-logo="http://epg.one/img/2278.png",Шансон ТВ
+http://yyzsqpdh.deploy.cx/ace/getstream?id=71506b08243e6b12e0e6e69c8582622a38009637&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="2408" tvg-logo="http://epg.one/img/2408.png",Ля-минор ТВ
+http://yyzsqpdh.deploy.cx/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="4658" tvg-logo="http://epg.one/img/4658.png",Viva HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&hlc=1
+#EXTINF:-1 group-title="Музыка" tvg-id="4042" tvg-logo="http://epg.one/img/4042.png",iConcerts HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&hlc=1
+
+#EXTINF:-1 group-title="Детские" tvg-id="1332" tvg-logo="http://epg.one/img/1332.png",Мульт HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="284" tvg-logo="http://epg.one/img/284.png",Мультимузыка
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="2481" tvg-logo="http://epg.one/img/2481.png",СТС Kids HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="740" tvg-logo="http://epg.one/img/740.png",Карусель
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="66" tvg-logo="http://epg.one/img/66.png",Уникум HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="2027" tvg-logo="http://epg.one/img/2027.png",В гостях у сказки
+http://yyzsqpdh.deploy.cx/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="601" tvg-logo="http://epg.one/img/601.png",Cartoon Network
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="555" tvg-logo="http://epg.one/img/555.png",Tiji TV
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="810" tvg-logo="http://epg.one/img/810.png",Gulli
+http://yyzsqpdh.deploy.cx/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png",Ani
+http://yyzsqpdh.deploy.cx/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="1757" tvg-logo="http://epg.one/img/1757.png",О!
+http://yyzsqpdh.deploy.cx/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="2438" tvg-logo="http://epg.one/img/2438.png",Капитан Фантастика HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="2757" tvg-logo="http://epg.one/img/2757.png",Мультиландия
+http://yyzsqpdh.deploy.cx/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="2437" tvg-logo="http://epg.one/img/2437.png",Рыжий
+http://yyzsqpdh.deploy.cx/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&hlc=1
+#EXTINF:-1 group-title="Детские" tvg-id="410" tvg-logo="http://epg.one/img/410.png",Da Vinci
+http://yyzsqpdh.deploy.cx/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&hlc=1
+
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="365" tvg-logo="http://epg.one/img/365.png",Animal Planet HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4326cb056ec172c0d9958cd44535045723b66068&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="325" tvg-logo="http://epg.one/img/325.png",Discovery Channel HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="409" tvg-logo="http://epg.one/img/409.png",Discovery Science HD [PL]
+http://yyzsqpdh.deploy.cx/ace/getstream?id=1e74c2c028af55e4581dc410f95900d6b2cc3e50&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="102" tvg-logo="http://epg.one/img/102.png",National Geographic HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png",Nat Geo Wild HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2801" tvg-logo="http://epg.one/img/2801.png",Love Nature 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?id=a54d3ec9d49487cb1e9102c74f341fec4cebd189&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2800" tvg-logo="http://epg.one/img/2800.png",Insight UHD 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="521" tvg-logo="http://epg.one/img/521.png",Viju Explore HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="765" tvg-logo="http://epg.one/img/765.png",Viju Nature
+http://yyzsqpdh.deploy.cx/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="277" tvg-logo="http://epg.one/img/277.png",Viju History HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="1394" tvg-logo="http://epg.one/img/1394.png",History HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2356" tvg-logo="http://epg.one/img/2356.png",History 2 HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="613" tvg-logo="http://epg.one/img/613.png",Travel Channel HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="1035" tvg-logo="http://epg.one/img/1035.png",Travel+Adventure HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2508" tvg-logo="http://epg.one/img/2508.png",Глазами Туриста HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2311" tvg-logo="http://epg.one/img/2311.png",Приключения HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2350" tvg-logo="http://epg.one/img/2350.png",Поехали!
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png",Моя Планета HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2498" tvg-logo="http://epg.one/img/2498.png",В мире животных HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2432" tvg-logo="http://epg.one/img/2432.png",Живая Планета
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="723" tvg-logo="http://epg.one/img/723.png",Наука HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2430" tvg-logo="http://epg.one/img/2430.png",Оружие
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2444" tvg-logo="http://epg.one/img/2444.png",Мужской
+http://yyzsqpdh.deploy.cx/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="617" tvg-logo="http://epg.one/img/617.png",Точка Отрыва
+http://yyzsqpdh.deploy.cx/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png",Авто 24
+http://yyzsqpdh.deploy.cx/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="153" tvg-logo="http://epg.one/img/153.png",Авто Плюс
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2443" tvg-logo="http://epg.one/img/2443.png",Драйв
+http://yyzsqpdh.deploy.cx/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2283" tvg-logo="http://epg.one/img/2283.png",Дикий
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png",Дикая охота HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2484" tvg-logo="http://epg.one/img/2484.png",Дикая рыбалка HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="1681" tvg-logo="http://epg.one/img/1681.png",Охотник и Рыболов HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png",Диалоги о рыбалке
+http://yyzsqpdh.deploy.cx/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="614" tvg-logo="http://epg.one/img/614.png",Кухня
+http://yyzsqpdh.deploy.cx/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png",Еда HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&hlc=1
+INF:-1 group-title="Познавательные" tvg-id="2298" tvg-logo="http://epg.one/img/2298.png",Загородная Жизнь
+http://yyzsqpdh.deploy.cx/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="434" tvg-logo="http://epg.one/img/434.png",Усадьба
+http://yyzsqpdh.deploy.cx/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="5642" tvg-logo="http://epg.one/img/5642.png",Мир Вокруг HD
+http://yyzsqpdh.deploy.cx/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="4444" tvg-logo="http://epg.one/img/4444.png",Наша Сибирь 4K
+http://yyzsqpdh.deploy.cx/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png",НТВ Стиль
+http://yyzsqpdh.deploy.cx/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2456" tvg-logo="http://epg.one/img/2456.png",Кто есть кто
+http://yyzsqpdh.deploy.cx/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="16" tvg-logo="http://epg.one/img/16.png",Доктор
+http://yyzsqpdh.deploy.cx/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&hlc=1
+#EXTINF:-1 group-title="Познавательные" tvg-id="2449" tvg-logo="http://epg.one/img/2449.png",Здоровое ТВ
+http://yyzsqpdh.deploy.cx/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&hlc=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
