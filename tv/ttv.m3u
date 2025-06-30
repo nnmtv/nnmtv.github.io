@@ -3,6 +3,7 @@
 http://yyzsqpdh.deploy.cx/
 
 #EXTINF:-1 group-title="Общие" tvg-id="983" tvg-logo="http://epg.one/img/983.png",Первый канал
+#EXTVLCOPT:http-user-agent=NNM/619 MST
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
