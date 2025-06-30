@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://monitor.zone-game.info/check.php?do=status&ip=yyzsqpdh.deploy.cx&port=80&id=12",Статус сервера
+http://yyzsqpdh.deploy.cx/ace/getstream?id=262ff182446f49d4f7ffbdf0a85d90876713d376&hlc=1
+
 #EXTINF:-1 group-title="Россия" tvg-id="983" tvg-logo="http://epg.one/img/983.png",Первый канал HD
 http://yyzsqpdh.deploy.cx/ace/getstream?id=262ff182446f49d4f7ffbdf0a85d90876713d376&hlc=1
 
