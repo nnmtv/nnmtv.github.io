@@ -29,7 +29,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/video_800x450_avc1/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/1767.png",ТНТ HD
 http://yyzsqpdh.deploy.cx/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&hlc=1
-
+#EXTINF:-1 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png",СТС
+#EXTVLCOPT:http-user-agent=NNM/619 MST
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/2765.png",Пятница! HD
 http://yyzsqpdh.deploy.cx/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&hlc=1
 #EXTINF:-1 group-title="Общие" tvg-id="304" tvg-logo="http://epg.one/img/304.png",Домашний
