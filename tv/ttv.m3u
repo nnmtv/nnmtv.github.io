@@ -3,7 +3,7 @@
 http://yyzsqpdh.deploy.cx/
 
 #EXTINF:-1 group-title="Россия" tvg-id="983" tvg-logo="http://epg.one/img/983.png",Первый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/variant.m3u8?version=2
 
 
 #EXTINF:-1 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/1767.png",ТНТ HD
