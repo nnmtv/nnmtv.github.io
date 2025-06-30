@@ -2,9 +2,10 @@
 #EXTINF:-1 tvg-logo="https://monitor.zone-game.info/check.php?do=status&ip=yyzsqpdh.deploy.cx&port=80&id=12",Статус сервера
 http://yyzsqpdh.deploy.cx/
 
-#EXTINF:-1 group-title="Россия" tvg-id="983" tvg-logo="http://epg.one/img/983.png",Первый канал
+#EXTINF:-1 group-title="Общие" tvg-id="983" tvg-logo="http://epg.one/img/983.png",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/playlist.m3u8?version=2
-
+#EXTINF:-1 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/2001.png",НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/1767.png",ТНТ HD
 http://yyzsqpdh.deploy.cx/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&hlc=1
