@@ -5,6 +5,18 @@ http://yyzsqpdh.deploy.cx/
 #EXTINF:-1 group-title="Общие" tvg-id="983" tvg-logo="http://epg.one/img/983.png",Первый канал
 #EXTVLCOPT:http-user-agent=NNM/619 MST
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/variant.m3u8
+
+#EXTINF:-1 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/984.png",Россия 1 HD
+#EXTVLCOPT:http-user-agent=NNM/619 MST
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="187" tvg-logo="http://epg.one/img/187.png",Россия К
+#EXTVLCOPT:http-user-agent=NNM/619 MST
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png",Россия 24
+#EXTVLCOPT:http-user-agent=NNM/619 MST
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_800x450_avc1/variant.m3u8
+
+
 #EXTINF:-1 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/2001.png",НТВ
 #EXTVLCOPT:http-user-agent=NNM/619 MST
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/video_800x450_avc1/variant.m3u8
